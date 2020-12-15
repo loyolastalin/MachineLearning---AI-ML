@@ -23,7 +23,7 @@ Ability to learn from the data without explicitly programming
 
 
 # 6 Steps involved in Data Science Life cycle
-
+![Cmdline](Images/6-Steps.JPG)
 1. Define the problem
 2. Collecting the data
 3. Clean the data [Numeric, Text, Classification] /  Exploratory the data 
