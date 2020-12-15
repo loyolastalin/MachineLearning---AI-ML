@@ -21,38 +21,38 @@ Ability to learn from the data without explicitly programming
 
 	-  Univariate analysis (pd.Describe)
 		- min
-			ii. max
-			iii. mode
-			iv. Std
-			v. Quartile
-			vi. Outliers 
-			vii. confidence interval
+		- max
+		- mode
+		- Std
+		- Quartile
+		- Outliers 
+		- confidence interval
 	- Data type identification (pd.info)
 	-  Visualize
-		○ Univariate
-			§ Bar - Categorical - Location, Balcony, Furnished/Unfurnished
-			§ Line - More no of Categorical,  continuous 
-			§ Histogram/ distplot - Range/ Interval Type (Y - frequency)
-		○ Bivariate
-			§ Scatter Plot  
+		- Univariate
+			- Bar - Categorical - Location, Balcony, Furnished/Unfurnished
+			- Line - More no of Categorical,  continuous 
+			-Histogram/ distplot - Range/ Interval Type (Y - frequency)
+		- Bivariate
+			- Scatter Plot  
 				- Correlation between two variables
 				- Correlation ranges -1 to 1
 				- X variable should be independent 
 				- X1, X2 have same effect on the Y variable
 				- Identify the impact on x on y
-			§ Pair Plot
+			- Pair Plot
 				- All in one picture
-			§ Reg plot
-			§ Box Plot
+			- Reg plot
+			- Box Plot
 				- Wishcus - MIN 25- 50-75 - Max
 				- outliers
 				- Distribution
-			§ Count Plot
+			- Count Plot
 				- SNS
 				- Bar Chat
 				- Categorical
-			§ Probability Density Function
-			§ Cumulative Density Function
+			- Probability Density Function
+			- Cumulative Density Function
 			
 4. Model Building
 5. Evaluate 
