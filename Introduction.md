@@ -25,7 +25,15 @@ Ability to learn from the data without explicitly programming
 # 6 Steps involved in Data Science Life cycle
 ![Cmdline](Images/6-Steps.JPG)
 1. Define the problem
+	- Identify the issue that we are going to solve [Background of the issue]
+	- Issue really fit into Predictive/ Perspective use case or not [Ignore if the problem is descriptive]
+	- Business benefits /Drivers
+	- Scope
 2. Collecting the data
+	- Data Lake 
+	- Do we require ETL
+	- Data format[csv, json, xml, etc]
+	- Volume, velocity, variety 
 3. Clean the data [Numeric, Text, Classification] /  Exploratory the data 
 
 	-  Univariate analysis (pd.Describe)
