@@ -24,17 +24,17 @@ Ability to learn from the data without explicitly programming
 
 # 6 Steps involved in Data Science Life cycle
 ![Cmdline](Images/6-Steps.JPG)
-1. Define the problem
+## 1. Define the problem
 	- Identify the issue that we are going to solve [Background of the issue]
 	- Issue really fit into Predictive/ Perspective use case or not [Ignore if the problem is descriptive]
 	- Business benefits /Drivers
 	- Scope
-2. Collecting the data
+## 2.llecting the data
 	- Data Lake 
 	- Do we require ETL
 	- Data format[csv, json, xml, etc]
 	- Volume, velocity, variety 
-3. Clean the data [Numeric, Text, Classification] /  Exploratory the data 
+## 3. Clean the data [Numeric, Text, Classification] /  Exploratory the data 
 
 	-  Univariate analysis (pd.Describe)
 		- min
@@ -72,7 +72,7 @@ Ability to learn from the data without explicitly programming
 			- Probability Density Function
 			- Cumulative Density Function
 			
-4. Model Building
+## 4. Model Building
 
 ### Regression: (Relationship between variables)
 - Linear regression
@@ -91,7 +91,7 @@ Ability to learn from the data without explicitly programming
 - Latent Dirichlet Allocation (LDA)
 - Neural Topic Model (NTM)
 
-5. Evaluate
+## 5. Evaluate
 ### Regression
 - Plots
 - Residual Histogram
@@ -102,5 +102,5 @@ Ability to learn from the data without explicitly programming
 - Confusion Matrix
 - Recall, Precision, Accuracy, F1-Score, Area Under Curve [TPR vs FPR]
  
-6. Deploy the Model
+## 6. Deploy the Model
 
