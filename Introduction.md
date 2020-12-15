@@ -13,7 +13,7 @@ Ability to learn from the data without explicitly programming
 -  Decision Making from Uncertainty 
 - Learn from mistake and correct it by the user input
 
-6 Steps involved in Data Science Life cycle:
+# 6 Steps involved in Data Science Life cycle
 
 1. Define the problem
 2. Collecting the data
