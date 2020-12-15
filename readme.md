@@ -8,8 +8,8 @@
 * ###  [AWS AI/ML by chandra Lingam - Udemy](https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/)
 
 # Refernce
-http://leadingindia.ai/
-http://sridharjs.com/
+## [Leading India AI](http://leadingindia.ai/)
+
 
 # Algorithm
 
