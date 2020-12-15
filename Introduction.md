@@ -73,6 +73,24 @@ Ability to learn from the data without explicitly programming
 			- Cumulative Density Function
 			
 4. Model Building
+
+### Regression: (Relationship between variables)
+	- Linear regression
+	- Support Vector Machine 
+	- Decision regression
+	- Random Forrest regression
+### Classification
+	- XGBoost
+	- ADA
+	- RandomForest
+	- K-Nearest neighbor 
+### Unsupervised
+	- K-Means
+	- Random-Cut forest
+	- Principle Component Analysis
+	- Latent Dirichlet Allocation (LDA)
+	- Neural Topic Model (NTM)
+
 5. Evaluate 
 6. Deploy the Model
 
