@@ -91,6 +91,16 @@ Ability to learn from the data without explicitly programming
 - Latent Dirichlet Allocation (LDA)
 - Neural Topic Model (NTM)
 
-5. Evaluate 
+5. Evaluate
+### Regression
+- Plots
+- Residual Histogram
+- Root Mean Square Error [RMSE]
+
+### Classification
+- Plots
+- Confusion Matrix
+- Recall, Precision, Accuracy, F1-Score, Area Under Curve [TPR vs FPR]
+ 
 6. Deploy the Model
 
