@@ -1,17 +1,26 @@
-# AI
+# Highlevel view
+![Cmdline](Images/Overall.JPG)
+
+## AI
 Imitate the human activity/ Performing the activity as human 
-# Machine Learning
+## Machine Learning
 Ability to learn from the data without explicitly programming
 
-# ML Categorie
+### Machine Learning programming vs normal programming
+
+![Cmdline](Images/AI_ML_Intro1.JPG)
+
+# ML categories
 	
 1. Supervised (Regression, Binary, Classification)
-- Learn from the Labeled data 
+	- Learn from the Labeled data 
 2. Unsupervised (Clustering)
-- Grouping the data into  similar groups of clusters
+	- Grouping the data into  similar groups of clusters
 3. Reinforcement 
--  Decision Making from Uncertainty 
-- Learn from mistake and correct it by the user input
+	-  Decision Making from Uncertainty 
+	- Learn from mistake and correct it by the user input
+
+
 
 # 6 Steps involved in Data Science Life cycle
 
@@ -32,7 +41,8 @@ Ability to learn from the data without explicitly programming
 		- Univariate
 			- Bar - Categorical - Location, Balcony, Furnished/Unfurnished
 			- Line - More no of Categorical,  continuous 
-			-Histogram/ distplot - Range/ Interval Type (Y - frequency)
+			- Histogram/ distplot 
+			- Range/ Interval Type (Y - frequency)
 		- Bivariate
 			- Scatter Plot  
 				- Correlation between two variables
