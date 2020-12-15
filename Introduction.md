@@ -29,7 +29,7 @@ Ability to learn from the data without explicitly programming
 	- Issue really fit into Predictive/ Perspective use case or not [Ignore if the problem is descriptive]
 	- Business benefits /Drivers
 	- Scope
-## 2.llecting the data
+## 2.Collecting the data
 	- Data Lake 
 	- Do we require ETL
 	- Data format[csv, json, xml, etc]
