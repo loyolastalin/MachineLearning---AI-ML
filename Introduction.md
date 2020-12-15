@@ -13,7 +13,7 @@ Ability to learn from the data without explicitly programming
 -  Decision Making from Uncertainty 
 - Learn from mistake and correct it by the user input
 
-![Cmdline](images/AI_ML_Intro1.JPG)
+![Cmdline](Images/AI_ML_Intro1.JPG)
 
 # 6 Steps involved in Data Science Life cycle
 
