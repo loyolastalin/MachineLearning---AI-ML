@@ -20,7 +20,7 @@ Ability to learn from the data without explicitly programming
 3. Clean the data [Numeric, Text, Classification] /  Exploratory the data 
 
 	-  Univariate analysis (pd.Describe)
-			i. min,
+			-- min,
 			ii. max
 			iii. mode
 			iv. Std
