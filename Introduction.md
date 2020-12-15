@@ -5,8 +5,8 @@ Ability to learn from the data without explicitly programming
 
 # ML Categorie
 	
-- Supervised (Regression, Binary, Classification)
-** Learn from the Labeled data 
+1. Supervised (Regression, Binary, Classification)
+- Learn from the Labeled data 
 2. Unsupervised (Clustering)
 - Grouping the data into  similar groups of clusters
 3. Reinforcement 
