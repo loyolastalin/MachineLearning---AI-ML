@@ -19,7 +19,7 @@ Ability to learn from the data without explicitly programming
 2. Collecting the data
 3. Clean the data [Numeric, Text, Classification] /  Exploratory the data 
 
-	•  Univariate analysis (pd.Describe)
+	-  Univariate analysis (pd.Describe)
 			i. min,
 			ii. max
 			iii. mode
@@ -27,8 +27,8 @@ Ability to learn from the data without explicitly programming
 			v. Quartile
 			vi. Outliers 
 			vii. confidence interval
-	• Data type identification (pd.info)
-	•  Visualize
+	- Data type identification (pd.info)
+	-  Visualize
 		○ Univariate
 			§ Bar - Categorical - Location, Balcony, Furnished/Unfurnished
 			§ Line - More no of Categorical,  continuous 
