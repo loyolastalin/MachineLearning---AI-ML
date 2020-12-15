@@ -75,21 +75,21 @@ Ability to learn from the data without explicitly programming
 4. Model Building
 
 ### Regression: (Relationship between variables)
-	- Linear regression
-	- Support Vector Machine 
-	- Decision regression
-	- Random Forrest regression
+- Linear regression
+- Support Vector Machine 
+- Decision regression
+- Random Forrest regression
 ### Classification
-	- XGBoost
-	- ADA
-	- RandomForest
-	- K-Nearest neighbor 
+- XGBoost
+- ADA
+- RandomForest
+- K-Nearest neighbor 
 ### Unsupervised
-	- K-Means
-	- Random-Cut forest
-	- Principle Component Analysis
-	- Latent Dirichlet Allocation (LDA)
-	- Neural Topic Model (NTM)
+- K-Means
+- Random-Cut forest
+- Principle Component Analysis
+- Latent Dirichlet Allocation (LDA)
+- Neural Topic Model (NTM)
 
 5. Evaluate 
 6. Deploy the Model
